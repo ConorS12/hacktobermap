@@ -1571,4 +1571,10 @@ var hacktobermap = [
     latitude: 33.748550,
     longitude: -84.391502 
   },
+  {
+    name: "Conor",
+    location: "Dublin, UK",
+    latitude: 53.3498,
+    longitude: 6.2603 
+  },
 ];
